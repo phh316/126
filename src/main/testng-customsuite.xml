@@ -1,0 +1,21 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">-->
+<!--<suite name="Default Suite">-->
+  <!--<test name="126selenium">-->
+    <!--<classes>-->
+      <!--<class nacom.agree.selenium.domain.test.TestLoginogin">-->
+        <!--<methods>-->
+          <!--<include name="testLogin001"/>-->
+        <!--</methods>-->
+      <!--</class>-->
+      <!--<class nacom.agree.selenium.domain.test.TestAddressBookBook">-->
+        <!--<methods>-->
+          <!--<include name="testAddPerson"/>-->
+        <!--</methods>-->
+      <!--</class>-->
+    <!--</classes>-->
+  <!--</test> &lt;!&ndash; 126selenium &ndash;&gt;-->
+  <!--<listeners>-->
+    <!--<listener class-nacom.agree.selenium.domain.utils.ReporterListenerener"/>-->
+  <!--</listeners>-->
+<!--</suite> &lt;!&ndash; Default Suite &ndash;&gt;-->
